@@ -1,0 +1,13 @@
+Servlet\PrieteniServlet.class
+Classes\Recomandari.class
+Servlet\RegisterPage.class
+Classes\Prieteni.class
+Classes\Utilizatori.class
+Servlet\EditareCarti.class
+Classes\Carti.class
+Servlet\InCitire.class
+Servlet\LoginPage.class
+Servlet\StergeCarte.class
+Classes\Carti_citite.class
+Servlet\CartiCitite.class
+Servlet\RecenzieServlet.class
