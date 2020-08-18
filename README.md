@@ -10,3 +10,5 @@ Aplicatie de tracking a cartilor citite.
 -sa recomande carti prietenilor 
 
 -sa dea recenzii si nota cartilor
+
+Proiect de grup: Costea Ionut-Andrei, Ceausu Corina-Georgiana
